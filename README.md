@@ -1,6 +1,6 @@
 # rolling-cats
 
-MVP minimum 2 person testnet bsv
+MVP minimum 2 person testnet bsc
 
 https://rcts-frontend.fly.dev/
 
